@@ -1,5 +1,5 @@
 # CSE 5462 Lab 8 - Ross Imbrock
-This is the final lab for the OSU CSE 5462 Network Programming Class, it follows instructions from Labs 0-8 to create a network of drones.
+This is the final project for the OSU CSE 5462 Network Programming Class, it creates a network of drones.
 
 ## How to Run Drone8
 - Create a file called `config.file` with your desired IPs, ports, and locations. *Ex. (127.0.0.1 1818 1)*
